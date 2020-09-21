@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vamos Contar!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Super Contador</h1>        
+        <h3>Conte de forma crescente ou decrescente, indicando em qual número quer começar.</h3>
+    </header>
+
+    <section>
+        <div>Inicio: <input type="number" name="comeco" id="inumber"></div>
+        <div>Fim: <input type="number" name="fim" id="fnumber"></div>
+        <div>Passo: <input type="number" name="passo" id="pnumber"></div>
+        <input class="bt" type="button" value="Iniciar" onclick="contar()">
+        <div id="res">Iniciando a contagem...</div>
+    </section>
+
+    <footer>
+        <p>&copy; CursoemVideo e &copy; DFontes</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
