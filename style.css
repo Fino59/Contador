@@ -14,6 +14,7 @@ section {
     padding: 15px;
     width: 500px;
     margin: auto;
+    margin-top: 35px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
     text-align: center;
     font-weight: bold;
@@ -39,8 +40,13 @@ section {
     text-decoration:none;
     }
 
+a {
+    text-decoration: none;
+    color: rgb(246, 215, 39);
+}
+    
 footer {
     color: rgb(246, 215, 39);
     text-align: center;
-    font-style: italic;
+    font-style: italic;    
 }
