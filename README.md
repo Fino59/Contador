@@ -29,7 +29,7 @@ Here are the technologies used in this project.
 
 ![Pace 2](https://github.com/Fino59/Contador/blob/master/screenshots/Screen%20-%2006.png)
 
-### 3 - If you don't a number and click "Iniciar" an alert is triggered to let you know what is wrong.
+### 3 - If you don't type a number and click "Iniciar" an alert is triggered to let you know what is wrong.
 
 ![Error 1](https://github.com/Fino59/Contador/blob/master/screenshots/Screen%20-%2002.png)
 
